@@ -1,0 +1,147 @@
+body{
+    overflow-x: hidden;
+}
+.uper-header{
+    background-color: #e21b70;
+}
+.uper-header h4{
+    font-weight: 500;
+}
+.uper-header button{
+    font-weight: 500;
+}
+.cart,.dropdown{
+    color: #e21b70;
+}
+.globe{
+    color: #000;
+}
+.navigation-bar{
+    z-index: -10;
+    position: relative;
+    top: -24px;
+}
+.sign-up{
+    background-color: #e21b70;
+    color: #fff;
+    border: none;
+}
+.log-in{
+    background-color: transparent;
+    border: 1px solid #e21b70;
+    color: #e21b70;
+}
+.hero-section{
+    height: 89vh;
+    background-color: #f7f7f7;
+}
+.hero-section-image{
+    height: 89vh;
+    background-image: url(https://images.deliveryhero.io/image/foodpanda/homepage/refresh-hero-home-pk.png?width=960);
+    background-position: left;
+    background-size: cover;
+}
+
+.hero-section-left-side{
+    position: relative;
+    top: 165px;
+    left: 30px;
+}
+.hero-section-left-side h1{
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.form {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    width: 70%;
+    box-shadow: 30px #fff;
+  }
+  
+  .form input {
+    flex: 1; /* Take up remaining width */
+    margin-right: 10px; /* Add some spacing between input and button */
+    border-color: none;
+  }
+  
+.find-food{
+    background-color: #e21b70;
+    font-weight: 400;
+}
+.hero-2-image{
+    z-index: -10;
+}
+.hero-2-image img{
+    
+    width: 99%;
+    height: 80vh;
+}
+
+
+.hero-2-section-card{
+    border-radius: 20px;
+    width: 50%;
+    background-color: #fff;
+    position: relative;
+    top: -200px;
+    left: 30px;
+    z-index: 10;
+}
+
+.karachi{
+    position: relative;
+    top: -40px;
+    left: 20px;
+    font-weight: lighter;
+}
+.food{
+    background-color: #e21b70;
+    height: 60vh;
+}
+
+
+.app-store{
+    font-weight: 400;
+    font-size: large;
+}
+.mobile-image{
+    position: relative;
+    top: -70px;
+}
+
+.code-reader{
+    display: inline;
+}
+/* .food p{
+    display: inline;
+    border: 1px solid black;
+    width: 70%;
+    margin-left: 10px;
+} */
+.apple{
+    position: relative;
+    top: 10px;
+}
+
+.text{
+    position: relative;
+    top: -15px;
+}
+.play-store{
+    position: relative;
+    left: -15px;
+    top: 10px;
+}
+/* .text-google{
+    position: relative;
+    left: 3px;
+    top: -15px;
+} */
+
+
+
+
+
+
