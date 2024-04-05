@@ -140,6 +140,20 @@ body{
     top: -15px;
 } */
 
+.tick-list {
+    list-style-type: none;
+  }
+  
+  .tick-list li {
+    padding-left: 30px; /* Adjust as needed */
+  }
+  .footer a{
+    color: black;
+    opacity: 0.8;
+  }
+  .footer a:hover{
+    color: #e21b70;
+  }
 
 
 
